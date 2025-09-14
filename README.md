@@ -1,11 +1,10 @@
-Hi there 👋 I'm Deepak Yadav!
+Hi there 👋 I'm Sanjeev Vishwakarma!
 
-I'm a passionate React Native and Web Developer with expertise in building dynamic mobile apps and responsive web platforms. With a strong foundation in React.js, Next.js, and Node.js, I specialize in delivering seamless UI/UX, optimizing performance, and creating scalable, user-centric solutions. Currently pursuing a BE in Information Technology, I blend technical prowess with Crafty skills to craft impactful digital experiences.
+I'm a passionate Full Stack Web Developer with expertise in building dynamic, responsive web platforms. With a strong foundation in React.js, Next.js, and Node.js, I specialize in delivering seamless UI/UX, optimizing performance, and creating scalable, user-centric solutions. Currently pursuing a BE in Information Technology, I blend technical prowess with Crafty skills to craft impactful digital experiences.
 
 ---
 
-🔭 Currently Working On:  
-- Formula 1 Project (Honda Client): Developing a custom map for a Japan-based F1 project at WeSeeGpt, enhancing functionality and user engagement. [F1 Project Link: https://new-jp-map.vercel.app/]  
+🔭 Currently Working On:    
 - EveryX.io: A project created using Next.js, integrating frontend and backend for a high-performance platform. [EveryX.io Link: https://everyx.io]  
 - Attendity: A geolocation-based attendance system with face recognition using DeepFace, built with React Native, Node.js, and MongoDB. [GitHub Link: Coming Soon]  
 
@@ -42,10 +41,9 @@ I'm a passionate React Native and Web Developer with expertise in building dynam
 ---
 
 📫 How to Reach Me:  
-- LinkedIn: [Deepak Yadav](https://www.linkedin.com/in/deepak-yadav)  
-- Email: [yadavdeepak52001@gmail.com](mailto:yadavdeepak52001@gmail.com)  
-- GitHub: [dny5112001](https://github.com/dny5112001)  
-- Portfolio: [deepakyadavportfolio.netlify.app](https://deepakyadavportfolio.netlify.app/)  
+- LinkedIn: [Sanjeev Vishwakarma](https://www.linkedin.com/in/sanjeev-vishwakarma-a6962a290/)  
+- Email: [vishsanjeev99@gmail.com](mailto:vishsanjeev99@gmail.com)  
+- GitHub: [dny5112001](https://github.com/Sanjiv99kv)   
 
 
  ⚡ Fun Fact:  
