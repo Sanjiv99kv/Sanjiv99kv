@@ -1,15 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Sanjeev%20Vishwakarma&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Engineer%20•%20Backend%20•%20Cloud%20Developer&descAlignY=58&descColor=c9d1ff" />
+# Sanjeev Vishwakarma
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanjeev-vishwakarma-a6962a290/">
+### Full Stack Engineer • Backend Engineer • Cloud & DevOps
+
+<p>
+Building scalable backend systems, real-time applications, and cloud-native production platforms.
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/sanjeev-vishwakarma-a6962a290/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:vishsanjeev99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <img src="https://img.shields.io/badge/Mumbai-India-6C63FF?style=for-the-badge" />
 
   <img src="https://komarev.com/ghpvc/?username=Sanjiv99kv&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 </p>
@@ -20,7 +28,7 @@
 
 # 👨‍💻 About Me
 
-```yaml
+```yaml id="8p2sxz"
 name: Sanjeev Vishwakarma
 role: Full Stack Engineer
 
@@ -58,14 +66,6 @@ interests:
   - Event-Driven Systems
   - Cloud Native Applications
 ```
-
----
-
-<div align="center">
-
-### ⚡ Building scalable backend systems & production-ready cloud applications
-
-</div>
 
 ---
 
@@ -201,24 +201,12 @@ interests:
 
 # 📫 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjeev-vishwakarma-a6962a290/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sanjeev%20Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/sanjeev-vishwakarma-a6962a290/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Sanjeev%20Vishwakarma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
- 
-
-<a href="mailto:vishsanjeev99@gmail.com">
-  <img src="https://img.shields.io/badge/Email-vishsanjeev99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
-
-</div>
+  <a href="mailto:vishsanjeev99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vishsanjeev99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
